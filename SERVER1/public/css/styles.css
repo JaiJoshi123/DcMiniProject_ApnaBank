@@ -1,0 +1,32 @@
+html {
+  scroll-behavior: smooth;
+ }
+ 
+body {
+    /* background-color: #E8ECEF; */
+  }
+  
+  .centered {
+      padding-top: 200px;
+      text-align: center;
+  }
+  
+  .secret-text {
+    text-align: center;
+    font-size: 2rem;
+    color: #fff;
+    background-color: #000;
+  }
+  
+
+  .heading{
+    font-family: 'Architects Daughter', cursive;
+  }
+  
+  .navbar{
+    border-bottom: 1px solid rgb(212, 212, 212);
+  }
+
+  .menu{
+    padding-left: 120px;
+  }
